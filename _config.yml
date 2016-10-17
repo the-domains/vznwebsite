@@ -1,0 +1,55 @@
+typography_spectrum: 0.8958345190101847
+color:
+  brandStrength: 0.9309760420128593
+  lightness: 0.5256708246783013
+  saturation: 0.6225124460099136
+  rhythmicContrast: 0.33983780771632227
+  brandColors:
+    - '#E1E6FA'
+    - '#C4D7ED'
+    - '#ABC8E2'
+    - '#375D81'
+    - '#183152'
+github: true
+opengraph:
+  image: >-
+    https://the-grid-user-content.s3-us-west-2.amazonaws.com/05998aa4-5d52-43f7-81c2-2b56d246cf04.jpg
+layout_spectrum: 0.7209740948133023
+author:
+  name: VZN
+  email: alsonang@vzn.website
+  url: vzn.website
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/15e38e6a-7e92-4ed5-908c-deefdf9701c1.jpg
+name: vzn.website
+navigation:
+  - name: 'Internet Marketing Training Center : Tecademics'
+    url: 'http://vzn.tcdmcs.com/free-internet-marketing-training-center'
+    type: external
+  - name: 'Artificial Intelligence Website Creation : The Grid'
+    url: 'https://thegrid.io/#54795'
+    type: external
+  - name: 'Unique Domain Names Registry : Uniregistry'
+    url: 'http://ap.uniregistry.com/click?aid=9666664c'
+    type: external
+  - name: 'All-in-one Online Marketing Platform : Get Response'
+    url: 'http://www.getresponse.com/index/VZN'
+    type: external
+  - name: 'E-Mail Marketing Solution : Aweber'
+    url: 'http://aweber.com/?467096'
+    type: external
+  - name: 'Your Own Affiliate Marketing Platform : Tapfiliate'
+    url: 'https://tapfiliate.com/?tap_a=1004-7b7f6c&tap_s=60357-a75e18'
+    type: external
+  - name: About VZN
+    id: 367ef805-de92-4137-ab63-20c65a73f016
+    type: content
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/e951b43e-fc9b-4e67-aea9-fbe3c8c76845.jpg
+title: VISION iDEALS
+content: []
+description: E|M-COMMENCE ECO-SYSTEM
+purpose:
+  - type: contact
+    url: 'mailto:alsonang@vzn.website'
+    label: Contact Us
