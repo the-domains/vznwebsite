@@ -1,44 +1,42 @@
-typography_spectrum: 0.8958345190101847
+typography_spectrum: 0.6496146354479438
 color:
-  brandStrength: 0.9309760420128593
-  lightness: 0.5256708246783013
-  saturation: 0.6225124460099136
-  rhythmicContrast: 0.33983780771632227
+  brandStrength: 0.5378343816405845
+  lightness: 0.5715758730697048
+  saturation: 0.6538802458761758
+  rhythmicContrast: 0.9789016735834982
   brandColors:
-    - '#E1E6FA'
-    - '#C4D7ED'
-    - '#ABC8E2'
-    - '#375D81'
-    - '#183152'
-github: true
+    - '#E7E8D1'
+    - '#D3CEAA'
+    - '#FBF7E4'
+    - '#424242'
+    - '#8E001C'
 opengraph:
   image: >-
     https://the-grid-user-content.s3-us-west-2.amazonaws.com/05998aa4-5d52-43f7-81c2-2b56d246cf04.jpg
-layout_spectrum: 0.7209740948133023
+layout_spectrum: 0.7671786956764794
 author:
-  name: VZN
-  email: alsonang@vzn.website
+  name: >-
+    21 Bukit Batok Crescent, #09-79 WCEGA Tower, Singapore 658065.
+    UEN:53293520M. GST Reg. No: M90370787E. 
+  email: info@vzn.one
   url: vzn.website
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/15e38e6a-7e92-4ed5-908c-deefdf9701c1.jpg
 name: vzn.website
 navigation:
-  - name: 'Internet Marketing Training Center : Tecademics'
-    url: 'http://vzn.tcdmcs.com/free-internet-marketing-training-center'
+  - name: Tecademics - Online Internet Marketing Training Centre
+    id: 8dd135bf-80fc-4801-ab90-22ee69c6ba62
+    type: content
+  - name: Unity - Game Engine (Top Grossing Packages)
+    url: 'https://www.assetstore.unity3d.com/#!/list/top-grossing?aid=vzn'
     type: external
-  - name: 'Artificial Intelligence Website Creation : The Grid'
+  - name: 'TheGrid : Artificial Intelligence Website Creation'
     url: 'https://thegrid.io/#54795'
     type: external
-  - name: 'Unique Domain Names Registry : Uniregistry'
+  - name: 'UniRegistry : Unique Domain Names Registry'
     url: 'http://ap.uniregistry.com/click?aid=9666664c'
     type: external
-  - name: 'All-in-one Online Marketing Platform : Get Response'
-    url: 'http://www.getresponse.com/index/VZN'
-    type: external
-  - name: 'E-Mail Marketing Solution : Aweber'
-    url: 'http://aweber.com/?467096'
-    type: external
-  - name: 'Your Own Affiliate Marketing Platform : Tapfiliate'
+  - name: 'Tapfiliate : Your Own Affiliate Marketing Platform'
     url: 'https://tapfiliate.com/?tap_a=1004-7b7f6c&tap_s=60357-a75e18'
     type: external
   - name: About VZN
@@ -46,10 +44,35 @@ navigation:
     type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/e951b43e-fc9b-4e67-aea9-fbe3c8c76845.jpg
-title: VISION iDEALS
-content: []
-description: E|M-COMMENCE ECO-SYSTEM
+title: V   I   S   I   O   N   S
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b8fc78d6-e610-45be-86e4-f8c69765d3ea.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/b8fc78d6-e610-45be-86e4-f8c69765d3ea.jpg
+    metadata:
+      datePublished: null
+      keywords: []
+      related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      description: ''
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+description: Making A Positive Difference
 purpose:
   - type: contact
-    url: 'mailto:alsonang@vzn.website'
+    url: 'mailto:vzn.alson@gmail.com'
     label: Contact Us
+github: true
